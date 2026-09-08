@@ -31,6 +31,10 @@ No pretende sustituir los procedimientos técnicos, contractuales o de seguridad
 └── ejemplos/
 ```
 
+## Caso completo
+
+Consulta el [caso ficticio del Hotel Costa Azul](ejemplos/caso-completo-hotel-costa-azul/README.md) para ver todas las plantillas cumplimentadas y conectadas dentro de un mismo proyecto, desde el acta de inicio hasta las lecciones aprendidas.
+
 ## Cómo utilizar las plantillas
 
 1. Descarga o copia la plantilla que necesites.
